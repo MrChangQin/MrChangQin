@@ -28,4 +28,4 @@
 ![](https://raw.githubusercontent.com/zhuzichu520/github-stats-transparent/output/generated/languages.svg)
 
 ### ⚡ Visitor count
-![](https://profile-counter.glitch.me/zhuzichu520/count.svg)
+![](https://profile-counter.glitch.me/MrChangQin/count.svg)
