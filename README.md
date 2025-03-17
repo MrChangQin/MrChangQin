@@ -44,7 +44,7 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MrChangQin&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+<!--     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=MrChangQin&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" /> -->
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
