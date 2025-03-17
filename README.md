@@ -28,7 +28,6 @@
 <!-- ![](https://raw.githubusercontent.com/MrChangQin/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/MrChangQin/github-stats-transparent/output/generated/languages.svg) -->
 ![](https://github-readme-stats.vercel.app/api?username=MrChangQin&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrChangQin&layout=compact&theme=night)
 
 ### ⚡ Visitor count
