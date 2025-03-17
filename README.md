@@ -1,8 +1,8 @@
 ### Hi, I'm ChangQin👋
->I am a Android/Qt Programmer from China.
+>I am an embedded full-stack engineer from China.
 
-- 🏡 Blog：<a href="https://zhuzichu520.github.io/" target="_blank">zhuzichu520.github.io</a>
-- 💬 Mail：[zhuzichu520@outlook.com](zhuzichu520@outlook.com)
+- 🏡 Blog：<a href="https://hhumkj.cn/" target="_blank">zhuzichu520.github.io</a>
+- 💬 Mail：[@outlook.com](MrChangQin@outlook.com)
 
 ### ⚡ Technologies  
 
@@ -22,10 +22,12 @@
 
 ###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
 
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=zhuzichu520&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=MrChangQin&repo=MrChangQin.github.io&theme=dark)
 
-![](https://raw.githubusercontent.com/zhuzichu520/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/zhuzichu520/github-stats-transparent/output/generated/languages.svg)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=MrChangQin&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
+
+![](https://raw.githubusercontent.com/MrChangQin/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/MrChangQin/github-stats-transparent/output/generated/languages.svg)
 
 ### ⚡ Visitor count
 ![](https://profile-counter.glitch.me/MrChangQin/count.svg)
